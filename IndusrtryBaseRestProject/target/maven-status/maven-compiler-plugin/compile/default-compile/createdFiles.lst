@@ -1,0 +1,9 @@
+com\amit\IndusrtryBaseRestProjectApplication.class
+com\amit\model\ui\CreateStudentResponseModel.class
+com\amit\repo\StudentRepo.class
+com\amit\service\StudentService.class
+com\amit\dto\StudentDTO.class
+com\amit\entity\Student.class
+com\amit\model\ui\CreateStudentRequestModel.class
+com\amit\service\StudentServiceImpl.class
+com\amit\controller\StudentController.class
